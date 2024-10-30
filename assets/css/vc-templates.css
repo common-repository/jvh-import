@@ -1,0 +1,10 @@
+.jvh_export_button.loading:after {
+	content: '';
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background-image: url(../images/loader.svg);
+	background-size: cover;
+	position: relative;
+	top: 5px;
+}
